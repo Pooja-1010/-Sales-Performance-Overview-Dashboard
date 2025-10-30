@@ -91,7 +91,7 @@ Hovering over visuals reveals additional insights such as detailed product sales
 
 💼 Profit Analysis: Highlighted high-margin product lines contributing to overall profitability.
 
-🌍 Regional Insights: Compared city-wise sales performance for targeted marketing.
+🌍 Regional Insights: Compared city-wise sales performance for targeted marketing..
 
 📅 Trend Tracking: Visualized sales growth over years to support forecasting and performance review.
 
