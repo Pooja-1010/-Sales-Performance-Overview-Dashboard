@@ -99,11 +99,11 @@ Hovering over visuals reveals additional insights such as detailed product sales
 
 📸 Dashboard Snapshots:
 
- Dashboard Preview 1 :
+ Dashboard Preview 1 :https://github.com/Pooja-1010/-Sales-Performance-Overview-Dashboard/blob/main/Screenshot%202025-10-30%20120934.png
 
- Dashboard Preview 1 :
+ Dashboard Preview 1 : https://github.com/Pooja-1010/-Sales-Performance-Overview-Dashboard/blob/main/Screenshot%202025-10-30%20121149.png
   
- Dashboard Preview 1 :
+ Dashboard Preview 1 :https://github.com/Pooja-1010/-Sales-Performance-Overview-Dashboard/blob/main/Screenshot%202025-10-30%20121119.png
    
  
 
